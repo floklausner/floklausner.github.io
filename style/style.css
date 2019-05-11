@@ -13,20 +13,20 @@ h3 {
 }
 
 header h1 {
-  background-color: rgba(0, 0, 255, 0.5);
+  background-color: rgba(0, 0, 0, 0.3);
   padding: 1vh;
   margin-bottom: 0vh;
 }
 
 header h3 {
-  background-color: rgba(0, 0, 255, 0.7);
+  background-color: rgba(0, 0, 0, 0.2);
   padding: 1vh;
   margin-top: 0vh;
 }
 
 #navbar {
   font-size: 1.4;
-  background-color: rgba(0, 0, 255, 0.7);
+  background-color: rgba(0, 0, 0, 0.3);
   padding: 1vh;
   margin-top: 2vh;
   width: 15vw;
@@ -48,7 +48,11 @@ header h3 {
   color: black;
 }
 
+#navbar a:link {
+  color: black;
+}
+
 #navbar p {
-  background-color: rgba(0, 0, 255, 0.3);
+  background-color: rgba(0, 0, 0, 0.1);
   padding: 1vh;
 }
