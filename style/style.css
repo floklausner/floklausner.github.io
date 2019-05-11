@@ -1,0 +1,54 @@
+html {
+  scroll-behavior: smooth;
+}
+
+h1 {
+  padding: 0%;
+  margin: 0%;
+}
+
+h3 {
+  padding: 0%;
+  margin: 0%;
+}
+
+header h1 {
+  background-color: rgba(0, 0, 255, 0.5);
+  padding: 1vh;
+  margin-bottom: 0vh;
+}
+
+header h3 {
+  background-color: rgba(0, 0, 255, 0.7);
+  padding: 1vh;
+  margin-top: 0vh;
+}
+
+#navbar {
+  font-size: 1.4;
+  background-color: rgba(0, 0, 255, 0.7);
+  padding: 1vh;
+  margin-top: 2vh;
+  width: 15vw;
+}
+
+#navbar h3 {
+  margin-bottom: 1vh;
+}
+
+#navbar a {
+  text-decoration: none;
+}
+
+#navbar a:hover {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+#navbar a:visited {
+  color: black;
+}
+
+#navbar p {
+  background-color: rgba(0, 0, 255, 0.3);
+  padding: 1vh;
+}
